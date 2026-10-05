@@ -1,4 +1,13 @@
-.row {
+#second-navbar {
     font-weight: bold;
     margin-bottom: 10px;
+}
+
+footer {
+    background-color: #292929;
+    color: white;
+}
+
+footer .col {
+    margin-top: 20px;
 }
